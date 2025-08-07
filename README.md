@@ -1,16 +1,19 @@
-## Hi there 👋
+ 👋 Hi, I'm Muhammad Yaseen Yousaf
 
-<!--
-**yaseenkhan121/yaseenkhan121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Flutter developer focused on building cross-platform mobile apps with beautiful UIs and seamless performance.
 
-Here are some ideas to get you started:
+ 🧰 Tech Stack:
+- Flutter & Dart
+- Firebase & REST APIs
+- Clean Architecture
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔨 Projects
+- 🚀 Portfolio App (Coming Soon)
+- 📱 UI Clone – Instagram
+- 📝 Notes App with Firebase
+
+ 📫 Connect With Me:
+- 📧 yaseenkhan3768@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/yaseen3768)
+- 📸 [Instagram](https://instagram.com/yaseen_khan077)
