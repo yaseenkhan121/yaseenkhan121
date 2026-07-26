@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **yasinkhan3768@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YwF96WorInXa-Y_O60-GWevzZ1D36m1l/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Ihy1EGiQTHtjKY2dC5y-ZoQb5wzEdWra/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
