@@ -24,8 +24,6 @@ Passionate Flutter Developer with <b>1+ year of experience</b> building modern, 
 
 <img src="https://img.shields.io/github/followers/yaseenkhan121?logo=github&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/yaseenkhan121?affiliations=OWNER&style=for-the-badge"/>
-
 </p>
 
 ---
@@ -75,7 +73,7 @@ Passionate Flutter Developer with <b>1+ year of experience</b> building modern, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="48"/>
 </a>
 
-<a href="https://instagram.com/yaseen_khan077">
+<a href="https://www.instagram.com/yaseen.02k?igsh=MWMyZHNyaHptaWlyZQ%3D%3D&utm_source=qr">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
