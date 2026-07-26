@@ -66,7 +66,7 @@ Passionate Flutter Developer with <b>1+ year of experience</b> building modern, 
 </a>
 
 <a href="mailto:yasinkhan3768@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
 </a>
 
 <a href="https://www.behance.net/mryasin7">
@@ -101,7 +101,9 @@ Passionate Flutter Developer with <b>1+ year of experience</b> building modern, 
 # 🤝 Let's Connect
 
 <p align="center">
-
+<p align="center">
+📧 <a href="mailto:yasinkhan3768@gmail.com">yasinkhan3768@gmail.com</a>
+</p>
 💼 LinkedIn • 📧 Email • 🎨 Behance • 📷 Instagram
 
 I'm always interested in collaborating on innovative Flutter and mobile application projects.
